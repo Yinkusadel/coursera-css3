@@ -1,15 +1,12 @@
 h1{
     background: #b3b3b4;
     font-size: 150%;
+    color: #ffffff;
 }
 
 header{
     background-color: #445566;
     text-align: center;
-}
-
-h1{
-    color: #ffffff;
 }
 
 nav{

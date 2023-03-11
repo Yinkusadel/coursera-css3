@@ -1,12 +1,17 @@
-h1{
-    background: #b3b3b4;
+body {
+    background: #838383;
     font-size: 150%;
+    margin: 4%;
+}
+
+h1 {
     color: #ffffff;
 }
 
 header{
     background-color: #445566;
     text-align: center;
+    padding: 15px;
 }
 
 nav{
@@ -20,6 +25,14 @@ h2{
     background: #104480;
 }
 
+section {
+    width: 30%;
+    display: inline-block;
+    float: left;
+    margin-right: 2%;
+
+}
+
 details{
     font-style: italic;
 }
@@ -30,4 +43,9 @@ summary{
 
 footer{
 background: #b3b3b4;
+clear: both;
+}
+
+img {
+    width: 100px;
 }
